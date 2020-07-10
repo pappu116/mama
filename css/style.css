@@ -1,0 +1,65 @@
+body{
+    background-color: #E5E5E5;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #FFFFFF;
+}
+.border{
+    width: 807px;
+    background-color: #D1D1D1;
+    height: 0;
+    display: block;
+}
+.top-player h2{
+ color:#562EFF;
+}
+.navbar {
+	padding: 0 17%;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
+.top-blog h2{
+    color:#562EFF;
+}
+.top-blog{
+    background-color: #FFFFFF;
+}
+.pl-3 p{
+    color:#562EFF ;
+}
+.pl-3 p span{
+    color:#888;
+}
+.list-course{
+    background-color:#FFFFFF;
+}
+.list-course h2{
+    color: #562EFF;
+}
+.course img{
+ width: 224px;
+}
+.title-footer img {
+	width: 20px;
+}
+
+.time{
+    background-color:#FEE5DF;
+    color: #FF4A60;
+    padding: 5px;
+    border-radius: 50px;
+}
+.container-fluid.list-course p {
+	color: #ED6B4F;
+}
